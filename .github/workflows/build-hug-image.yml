@@ -15,7 +15,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
+    permissions:qiao9898998?
       contents: read
       packages: write
 
